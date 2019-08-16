@@ -24,24 +24,16 @@ We get the following Images as input and then we show the results using the meth
 
 
 #### Input Image1
-<kbd>
-![Original BufferedImage](https://github.com/simoska4/straightentext/blob/master/sample/input1.png)
-</kbd>
+![Original BufferedImage](https://github.com/simoska4/straightentext/blob/master/sample/input1.png)  
 
 #### Output Image1
-<kbd>
-![Original BufferedImage](https://github.com/simoska4/straightentext/blob/master/sample/input1_rotated.png)
-</kbd>
+![Original BufferedImage](https://github.com/simoska4/straightentext/blob/master/sample/input1_rotated.png)  
 
 #### Input Image2
-<kbd>
-![Original BufferedImage](https://github.com/simoska4/straightentext/blob/master/sample/input1.png) 
-</kbd>
+![Original BufferedImage](https://github.com/simoska4/straightentext/blob/master/sample/input1.png)  
 
 #### Output Image2
-<kbd>
-![Original BufferedImage](https://github.com/simoska4/straightentext/blob/master/sample/input1_rotated.png)
-</kbd>
+![Original BufferedImage](https://github.com/simoska4/straightentext/blob/master/sample/input1_rotated.png)  
 
 
 
