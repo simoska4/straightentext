@@ -3,7 +3,7 @@ import java.awt.image.BufferedImage;
 
 
 /**
- * This class allows you to straighten a text image.
+ * This class allows to straighten a text image.
  *
  * @author Simone Sapienza <simoska4@gmail.com>
  * @version 1.0
