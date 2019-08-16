@@ -30,7 +30,7 @@ We get the following Images as input and then we show the results using the meth
 #### Output Image1
 <kbd>
 ![Original BufferedImage](https://github.com/simoska4/straightentext/blob/master/sample/input1_rotated.png)
-
+</kbd>
 
 #### Input Image2
 <kbd>
