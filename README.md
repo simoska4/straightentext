@@ -1,4 +1,7 @@
-# Straighten text
+<h1 align="center">Straighten text</h1>
+---
+
+# Description
 
 StraightenText is a Java class that implements methods to straighten a BufferedImage.  
 It works mainly with images with text.
@@ -37,6 +40,63 @@ We get the following Images as input and then we show the results using the meth
 
 
 
+
+<br><br>
+  
+## Usage
+
+#### Apache Maven  
+```markdown
+<dependency>
+  <groupId>com.github.simoska4.straightentext</groupId>
+  <artifactId>straighten-image</artifactId>
+  <version>1.0</version>
+</dependency>
+```
+
+
+#### Gradle Groovy DSL  
+```markdown
+implementation 'com.github.simoska4.straightentext:straighten-image:1.0'
+```
+
+
+#### Gradle Kotlin DSL 
+```markdown
+compile("com.github.simoska4.straightentext:straighten-image:1.0")
+```
+
+
+#### Scala SBT 
+```markdown
+libraryDependencies += "com.github.simoska4.straightentext" % "straighten-image" % "1.0"
+```
+
+
+#### Apache Ivy
+```markdown
+<dependency org="com.github.simoska4.straightentext" name="straighten-image" rev="1.0" />
+```
+
+
+#### Groovy Grape
+```markdown
+@Grapes(
+  @Grab(group='com.github.simoska4.straightentext', module='straighten-image', version='1.0')
+)
+```
+
+
+#### Leiningen
+```markdown
+[com.github.simoska4.straightentext/straighten-image "1.0"]
+```
+
+
+#### Apache Buildr
+```markdown
+'com.github.simoska4.straightentext:straighten-image:jar:1.0'
+```
 
 
 ## Contributing
